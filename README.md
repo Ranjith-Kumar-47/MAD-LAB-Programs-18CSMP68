@@ -20,5 +20,5 @@ https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Progam-1
 <br/>
 SCREENSHOTS:
 <br/>
-[program1](https://user-images.githubusercontent.com/113786288/190922596-90ddf329-8c22-4b95-a954-2d863b55ebc3.jpg)
+https://user-images.githubusercontent.com/113786288/190922596-90ddf329-8c22-4b95-a954-2d863b55ebc3.jpg)
 <hr/>
