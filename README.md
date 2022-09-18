@@ -29,10 +29,11 @@ Develop an Android application using controls like Button, TextView, EditText fo
 <br/>
 Download APK:
 <br/>
-https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Progam-1-Visiting-Card/Visiting%20Card%20apk
+https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Program-2-Simple-Calculator/Simple%20Calculator%20apk
 <br/>
 <br/>
 SCREENSHOTS:
 <br/>
-https://user-images.githubusercontent.com/113786288/190922596-90ddf329-8c22-4b95-a954-2d863b55ebc3.jpg)
+![image](https://user-images.githubusercontent.com/113786288/190924197-58dad295-6919-4e71-a02f-ca7f276cd7c6.png)
+
 <hr/>
