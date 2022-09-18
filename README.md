@@ -12,9 +12,11 @@
  <br/>
 Create an application to design a Visiting Card. The Visiting card should have a company logo at the top right corner. The company name should be displayed in Capital letters, aligned to the center. Information like the name of the employee, job title, phone number, address, email, fax and the website address is to be displayed. Insert a horizontal line between the job title and the phone number.
 <br/>
+<br/>
 Download APK:
 <br/>
 https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Progam-1-Visiting-Card/Visiting%20Card%20apk
+<br/>
 <br/>
 SCREENSHOTS:
 <br/>
