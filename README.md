@@ -55,3 +55,17 @@ SCREENSHOTS:
 <br/>
 https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/files/9595065/Sign.Up.Sign.In.pdf
 <hr/>
+ 4) Wallpaper Changer app:
+ <br/>
+Develop an application to set an image as wallpaper. On click of a button, the wallpaper image should start to change randomly every 30 seconds.
+<br/>
+<br/>
+Download APK:
+<br/>
+https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Program-3-Sign_Up-Sign_In/Sign%20Up%20Sign%20In%20apk
+<br/>
+<br/>
+SCREENSHOTS:
+<br/>
+https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/files/9595065/Sign.Up.Sign.In.pdf
+<hr/>
