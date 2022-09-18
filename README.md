@@ -6,7 +6,7 @@
  LAB MANUAL:
  [18CSMP68 MAD Lab Manual..pdf](https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/files/9594974/18CSMP68.MAD.Lab.Manual.pdf)
 <br/>
-**Code written in manual is little different in my codes**.
+**Code written in manual is little different from my code**.
 <hr/>
  1) Visiting Card:
  <br/>
