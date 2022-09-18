@@ -22,3 +22,17 @@ SCREENSHOTS:
 <br/>
 https://user-images.githubusercontent.com/113786288/190922596-90ddf329-8c22-4b95-a954-2d863b55ebc3.jpg)
 <hr/>
+ 2) Simple Calculator:
+ <br/>
+Develop an Android application using controls like Button, TextView, EditText for designing a calculator having basic functionality like Addition, Subtraction, Multiplication, and Division.
+<br/>
+<br/>
+Download APK:
+<br/>
+https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Progam-1-Visiting-Card/Visiting%20Card%20apk
+<br/>
+<br/>
+SCREENSHOTS:
+<br/>
+https://user-images.githubusercontent.com/113786288/190922596-90ddf329-8c22-4b95-a954-2d863b55ebc3.jpg)
+<hr/>
