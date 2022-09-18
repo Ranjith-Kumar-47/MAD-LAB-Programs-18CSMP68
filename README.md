@@ -7,12 +7,16 @@
  [18CSMP68 MAD Lab Manual..pdf](https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/files/9594974/18CSMP68.MAD.Lab.Manual.pdf)
 <br/>
 **Code written in manual is little different in my codes**.
-<br/>
-<br/> 
-<br/>
+<hr/>
  1) Visiting Card:
  <br/>
 Create an application to design a Visiting Card. The Visiting card should have a company logo at the top right corner. The company name should be displayed in Capital letters, aligned to the center. Information like the name of the employee, job title, phone number, address, email, fax and the website address is to be displayed. Insert a horizontal line between the job title and the phone number.
 <br/>
+Download APK:
 <br/>
-![program1](https://user-images.githubusercontent.com/113786288/190922596-90ddf329-8c22-4b95-a954-2d863b55ebc3.jpg)
+
+<br/>
+SCREENSHOTS:
+<br/>
+[program1](https://user-images.githubusercontent.com/113786288/190922596-90ddf329-8c22-4b95-a954-2d863b55ebc3.jpg)
+<hr/>
