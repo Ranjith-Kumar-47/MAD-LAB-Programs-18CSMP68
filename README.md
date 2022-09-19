@@ -83,4 +83,31 @@ SCREENSHOTS:
 <br/>
 https://user-images.githubusercontent.com/113786288/190950930-765fbc30-42cb-4e8e-a886-5bd8e1b5e616.png
 <hr/>
-
+ 7) Text to Speech app:
+ <br/>
+Develop a simple application with one EditText so that the user can write some text in it. Create a button called "Convert Text to Speech" that converts the user input text into voice.
+<br/>
+<br/>
+Download APK:
+<br/>
+https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Program-7-Text-to-Speech/Text%20to%20Speech%20apk
+<br/>
+<br/>
+SCREENSHOTS:
+<br/>
+https://user-images.githubusercontent.com/113786288/190953102-b0eee56e-e858-4b3a-a6b8-baa573184e4f.png
+<hr/>
+ 8) Dialer app:
+ <br/>
+Create an activity like a phone dialer with CALL and SAVE buttons. On pressing the CALL button, it must call the phone number and on pressing the SAVE button it must save the number to the phone contacts.
+<br/>
+<br/>
+Download APK:
+<br/>
+https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Program-8-Dialer-app/Dialer%20apk
+<br/>
+<br/>
+SCREENSHOTS:
+<br/>
+https://user-images.githubusercontent.com/113786288/190953224-160b2efb-f300-4a30-bcbd-cac0841ffbff.png
+<hr/>
