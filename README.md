@@ -81,6 +81,6 @@ https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Program-
 <br/>
 SCREENSHOTS:
 <br/>
-![image](https://user-images.githubusercontent.com/113786288/190950930-765fbc30-42cb-4e8e-a886-5bd8e1b5e616.png)
+https://user-images.githubusercontent.com/113786288/190950930-765fbc30-42cb-4e8e-a886-5bd8e1b5e616.png
 <hr/>
 
