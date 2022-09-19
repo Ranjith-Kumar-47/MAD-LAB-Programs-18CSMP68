@@ -69,3 +69,18 @@ SCREENSHOTS:
 <br/>
 https://user-images.githubusercontent.com/113786288/190925406-1f4d156d-f1d8-4eb8-965c-0e3936bcb613.png
 <hr/>
+ 5) Counter app:
+ <br/>
+Write a program to create an activity with two buttons START and STOP. On pressing the START button, the activity must start the counter by displaying the numbers from One and the counter must keep on counting until the STOP button is pressed. Display the counter value in a TextView.
+<br/>
+<br/>
+Download APK:
+<br/>
+https://github.com/Ranjith-Kumar-47/MAD-LAB-Programs-18CSMP68/tree/main/Program-5-Counter-app/Counter%20apk
+<br/>
+<br/>
+SCREENSHOTS:
+<br/>
+https://user-images.githubusercontent.com/113786288/190950930-765fbc30-42cb-4e8e-a886-5bd8e1b5e616.png
+<hr/>
+
