@@ -1,7 +1,7 @@
 # MAD-LAB-Programs-18CSMP68
-<<<<<<< HEAD
+
  This Repository Contains Vtu 2018 Scheme 6th Semester MAD LAB Programs
-=======
+
  This Repository Contains Vtu 2018 Scheme 6th Semester MAD LAB Programs,
  <br/>
  <br/>
@@ -114,4 +114,3 @@ SCREENSHOTS:
 <br/>
 https://user-images.githubusercontent.com/113786288/190953224-160b2efb-f300-4a30-bcbd-cac0841ffbff.png
 <hr/>
->>>>>>> 558959ab0a8fe38830486d0fd4a6f5e9fdc8b40f
